@@ -1,5 +1,5 @@
 NAME=nginx_rtmp
-VERSION=v1.0
+VERSION=debian
 DOCKER_RUN_OPTIONS= \
 	--privileged \
 	--net=docker-lan \
